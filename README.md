@@ -43,8 +43,8 @@
         <img align="center" width=100% src="https://github.com/HenryDiAmped/react-website-smooth-scroll-yt"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/HenryDiAmped/react-website-smooth-scroll-yt" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://youtu.be/" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@HenryDiAmped"  /></a>
+      <a href="https://github.com/HenryDiAmped/react-website-smooth-scroll-yt" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@HenryDiAmped" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
@@ -53,8 +53,8 @@
         <img align="center" width=100% src="https://github.com/HenryDiAmped/react-website-smooth-scroll-yt"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/HenryDiAmped/react-website-smooth-scroll-yt" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://youtu.be/" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@HenryDiAmped"  /></a>
+      <a href="https://github.com/HenryDiAmped/react-website-smooth-scroll-yt" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@HenryDiAmped" /></a>
     </p>       
 </td>
   
