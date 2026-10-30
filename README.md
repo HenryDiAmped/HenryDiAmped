@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <a href="https://www.youtube.com/@HenryDiAmped">
+  <a href="https://www.youtube.com/@henryencisocan6570">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@HenryDiAmped">
